@@ -10,3 +10,7 @@ wait for it to be delivered
 receive it
 eat it
 enjoy it
+
+
+console.writeline(¨hellow class¨)
+I know this is a txt file, just want to configure some of it to code(even tho it ofc is just text)
